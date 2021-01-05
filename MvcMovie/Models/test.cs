@@ -7,5 +7,7 @@ namespace MvcMovie.Models
 {
     public class test
     {
+        string name = "mohamed";
+
     }
 }
